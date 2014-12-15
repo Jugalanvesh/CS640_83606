@@ -8,11 +8,11 @@ pageEncoding="ISO-8859-1"%>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title> CS640 85446 Web Security Assignment Page !! </title>
+<title> CS640 83606 Web Security Assignment Page !! </title>
 </head>
 <body>
 	<center>
-		<h2>CS640 85446 Web Security Assignment</h2>
+		<h2>CS640 83606 Web Security Assignment</h2>
 		<h3>
 			<a href="hello?name=amrita">Click Here</a>
 		</h3>
