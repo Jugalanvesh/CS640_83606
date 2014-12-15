@@ -11,6 +11,8 @@ public class WebSecurityHomeController {
 
 	String message = "This course was helpful in learning the basic fundamental knowledge of computer network security model. Have learned OSI model, Routing Protocols, IP Addresses and Subnetting, MAC addressing. Have got idea on firewall, switch, router, Vlans, Basic router configuration, Computer network router, VPN(virtual private network), router switch configuration, How to break password step-by-step, Cryptography. Course was very helpful in understanding how the security holds in internet world. ";
 
+
+
 	@RequestMapping("/hello")
 	public ModelAndView showMessage(
 			@RequestParam(value = "name", required = false, defaultValue= "world") String name) {
