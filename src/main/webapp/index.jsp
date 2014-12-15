@@ -14,7 +14,7 @@ pageEncoding="ISO-8859-1"%>
 	<center>
 		<h2>CS640 83606 Web Security Assignment</h2>
 		<h3>
-			<a href="hello?name=amrita">Click Here</a>
+			<a href="hello?name=jugal">Click Here</a>
 		</h3>
 	</center>
 </body>
