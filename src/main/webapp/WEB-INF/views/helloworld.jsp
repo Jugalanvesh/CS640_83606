@@ -3,14 +3,14 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>CS640 85446 Web Security Assignment</title>
+<title>CS640 83606 Web Security Assignment</title>
 </head>
 <body>
 	<center>
-		<h2>Name :- Amrita Mishra </h2>
-		<h2>Student ID :- 85446 </h2>
+		<h2>Name :- Jugal Anvesh Gadamsetty </h2>
+		<h2>Student ID :- 83606 </h2>
 		<br>
-		<div align="justify"> 
+		<div align="justify">
 			<p>${message}</p>
 		</div>
 	</center>
