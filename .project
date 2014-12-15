@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>CS640_85446</name>
+	<name>CS640_83606</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -35,6 +35,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+		
 	</buildSpec>
 	<natures>
 		<nature>org.springframework.ide.eclipse.core.springnature</nature>
